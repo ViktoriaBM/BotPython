@@ -1,7 +1,7 @@
 import telebot
 import random
 
-bot = telebot.TeleBot('7118947135:AAEL-cPibN-tRFrSSFrif2cltypZrdHGm2k')
+bot = telebot.TeleBot('')
 
 storage = dict()
 
